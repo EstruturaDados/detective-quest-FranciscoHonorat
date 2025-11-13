@@ -1,0 +1,43 @@
+# Arquivos compilados
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# Diretórios de build
+obj/
+bin/
+build/
+dist/
+
+# Arquivos de debug
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.log
+
+# Arquivos do sistema Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Arquivos do sistema Linux/Mac
+.directory
+.Trash-*
